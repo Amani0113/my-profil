@@ -1,0 +1,18 @@
+
+body{
+	background-color: gray;
+	color:  black;
+	font-size: 32px;
+	line-height: 1.6;
+	letter-spacing: 2px;
+	font-weight:5;
+}
+a{text-decoration: none;}
+
+p{text-justify: center ;
+	color: blueviolet;}
+
+h1{ color:red;
+	font-weight: 15; }
+
+
